@@ -1,0 +1,68 @@
+﻿<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head><meta charset='utf-8'></head><body>
+<h2>Bilan des entrées du 01/09/2026 au 13/09/2026</h2>
+<table border='1' style='border-collapse:collapse;'>
+<tr style='background-color:#2980b9; color:white; font-weight:bold;'>
+<th>Categorie</th>
+<th>Detail</th>
+<th>NombreTransactions</th>
+<th>TotalUSD</th>
+<th>TotalCDF</th>
+</tr>
+<tr>
+<td>Maternelle</td>
+<td>1ère Maternelle</td>
+<td>1</td>
+<td>20,00</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>Primaire</td>
+<td>4ème Primaire</td>
+<td>1</td>
+<td>10,00</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>Primaire</td>
+<td>6ème Primaire</td>
+<td>1</td>
+<td>20,00</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>Secondaire</td>
+<td>3ème Commerciale</td>
+<td>1</td>
+<td>20,00</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>Secondaire</td>
+<td>3ème Pédagogie</td>
+<td>1</td>
+<td>20,00</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>Secondaire</td>
+<td>4ème Commerciale</td>
+<td>1</td>
+<td>20,00</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>Secondaire</td>
+<td>4ème Scientifique</td>
+<td>1</td>
+<td>20,00</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>Teste section</td>
+<td>teste classe</td>
+<td>1</td>
+<td>20,00</td>
+<td>0,00</td>
+</tr>
+</table></body></html>
